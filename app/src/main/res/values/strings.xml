@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TrackingApp</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="GetLocation">Get Location</string>
+    <string name="LocationDisplay">Location Display Here</string>
+    <string name="Longitude">Longitude</string>
+    <string name="Latitude">Latitude</string>
+    <string name="sendMessage">Send Message</string>
+</resources>
